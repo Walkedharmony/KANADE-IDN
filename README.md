@@ -23,7 +23,7 @@ Fans Translation KANADE Indonesia
 - Judul (JP) : KANADE
 - Judul (EN) : KANADE
 - FanTL (ID) : Zero Novel Team
-- Developer  : Bushiroad, Frontwing
+- Developer  : Good Smile Company, Inc., Frontwing
 - Released   : 2025-06-12
 - Rating     : All Age
 - Engine     : Kirikiri Z
