@@ -45,3 +45,23 @@ Fans Translation KANADE Indonesia
 - [krkrdump](https://github.com/crskycode/KrkrDump) 
 - ArchPacker custom dari kami ZERO NOVEL TEAM
 
+
+**WAJIB DIBACA**
+
+Halooo para penikmat Visual Novel, Kami ZERO NOVEL TEAM telah menyelesaikan Translasi untuk Visual Novel KANADE kedalam Bahasa Indonesia, Project Kami lainnya yaitu GINKA dan Tsui No Stella.
+
+Terima kasih atas kesabaran kalian menunggu Patch Bahasa Indonesia ini, kami mohon maaf jika ada kesalahan kata, tanda baca dan simbol dalam terjemahan. 
+
+Terjemahan ini mengambil dari bahasa Jepang dan refrensi kalimat dari Inggris, jadi banyak istilah yang tetap kami pertahankan dalam terjemahannya.
+
+Kami harap kalian dapat menikmati Karya Visual Novel ini tanpa keterbatasan bahasa dll. 
+
+Sekian dari kami ZERO NOVEL TEAM.
+
+
+
+**Penjelasan Penting Tentang KrkrZ**
+
+Seperti yang kalian ketahui KrkrZ adalah Game Engine Open Source yang kebanyakan Karyanya dalam bentuk Visual Novel, KrkrZ engine sekarang lebih modern saat Wamsoft melanjutkan Enginenya yang dimana berdampak pada versi Android(Kirikiroid2) yang semakin lama semakin tidak support.
+
+Contohnya sendiri Visual Novel KANADE ini dalam versi androidnya terlalu banyak crash dan bug yang sudah tidak bisa diperbaiki lagi, dari itu KANADE sangat tidak direkomendasikan dimainkan di android dengan krkroid2. Gunakan emulator lain seperti winlator(jika spek kalian mampu). 
