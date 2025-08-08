@@ -43,7 +43,7 @@ Fans Translation KANADE Indonesia
   <summary><h2>Tools And Information</h2></summary> 
 
 - [krkrdump](https://github.com/crskycode/KrkrDump) 
-- ArchPacker custom dari kami ZERO NOVEL TEAM
+- Custom Archives dari kami ZERO NOVEL TEAM
 
 
 **WAJIB DIBACA**
@@ -57,6 +57,17 @@ Terjemahan ini mengambil dari bahasa Jepang dan refrensi kalimat dari Inggris, j
 Kami harap kalian dapat menikmati Karya Visual Novel ini tanpa keterbatasan bahasa dll. 
 
 Sekian dari kami ZERO NOVEL TEAM.
+
+
+
+**Cara Download dan Install Patchnya**
+- Kalian unduh dulu patchnya di bagian [Rilis](https://github.com/Walkedharmony/KANADE-IDN/releases) dari repositori ini
+- Ketika kalian selesai mengunduh patchnya(350mb+) Extract/drag & drop ke direktori VN KANADE berada
+- Kami hanya menyediakan Patchnya saja, untuk VNnya kalian bisa membelinya di Steam
+- Patchnya sudah support untuk Steam
+  
+<p align='center'>
+<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAWuq66MLSCaqfQnV2E3vPEaesYMcZF_DcyRNKnwuXxAwUosXqt58lHTaPt2Mmu5lauUwDjuD6465C_0E75e07yc-kezaL9DuCxzQr5s9nmeFH5yOTR-NsEaSPozMgHcS90e9ObUmVG9B6lFU1214yrdxnNpX4-HMydIQwUEFpr2nbcvRRXccgkD0TSWA/s16000/Screenshot%202025-08-08%20092818.png"</p>
 
 
 
