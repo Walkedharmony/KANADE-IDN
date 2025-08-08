@@ -32,7 +32,7 @@ Fans Translation KANADE Indonesia
 
 **Include Isi Patch**
 
-- Opening Subtitle Bahasa Indonesia
+- All Movie Subtitle Bahasa Indonesia
 - Full Dialog Bahasa Indonesia
 - Full Translated UI
 
