@@ -43,7 +43,7 @@ Fans Translation KANADE Indonesia
   <summary><h2>Tools And Information</h2></summary> 
 
 - [krkrdump](https://github.com/crskycode/KrkrDump) 
-- Custom Archives dari kami ZERO NOVEL TEAM
+- [Custom Archives](https://github.com/Walkedharmony/ArchPacker) dari kami ZERO NOVEL TEAM
 
 
 **WAJIB DIBACA**
